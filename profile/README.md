@@ -6,8 +6,10 @@ sites, marine-life sightings, gear and its service history, certifications — s
 diver's data can move between applications without loss.
 
 - **Site:** <https://divejson.org>
-- **Specification, JSON Schema, fixtures, validator:**
+- **Specification, JSON Schema, conformance fixtures:**
   [divejson/divejson](https://github.com/divejson/divejson)
+- **Python tools** — validator, converters, conformance runner:
+  [divejson/divejson-py](https://github.com/divejson/divejson-py)
 - **Media type:** `application/vnd.dive+json` · file extension `.divejson`
 
 **Status: v1.0 draft.** The format freezes when its reference implementation's
